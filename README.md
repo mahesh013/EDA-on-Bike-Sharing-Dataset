@@ -20,6 +20,4 @@ companies improve their services.
 - SQL
 - Excel
 - Power BI
-In this EDA project, you can use these tools in different ways. For example, you can use 
-Python to clean and analyze the data, SQL to filter and group the data, Excel to create 
-visualizations, and Power BI to create interactive reports and dashboards.
+
